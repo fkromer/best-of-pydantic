@@ -3,9 +3,16 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "databases"
+    title: "Databases"
+  - category: "geojson"
+    title: "GeoJSON"
+  - category: "jsonapi"
+    title: "JSON:API"
+  - category: "schemas"
+    title: "Schemas"
+  - category: "xml"
+    title: "XML"
 
 labels:
   # - label: "python"
@@ -13,7 +20,47 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: pydbantic
+    github_id: codemation/pydbantic
+    pypi_id: pydbantic
+    labels: []
+    category: "databases"
+  - name: sqlmodel
+    github_id: tiangolo/sqlmodel
+    pypi_id: sqlmodel
+    labels: []
+    category: "databases"
+
+  - name: geojson-pydantic
+    github_id: developmentseed/geojson-pydantic
+    pypi_id: geojson-pydantic
+    labels: []
+    category: "geojson"
+  - name: pydantic-geojson
+    github_id: gb-libs/pydantic-geojson
+    pypi_id: pydantic-geojson
+    labels: []
+    category: "geojson"
+
+  - name: jsonapi-pydantic
+    github_id: impocode/jsonapi-pydantic
+    pypi_id: jsonapi-pydantic
+    labels: []
+    category: "jsonapi"
+
+  - name: pydantic_schemaorg
+    github_id: lexiq-legal/pydantic_schemaorg
+    pypi_id: pydantic_schemaorg
+    labels: []
+    category: "schemas"
+
+  - name: xsdata-pydantic
+    github_id: tefra/xsdata-pydantic
+    pypi_id: xsdata-pydantic
+    labels: []
+    category: "xml"
+  - name: pydantic-xml
+    github_id: dapper91/pydantic-xml
+    pypi_id: pydantic-xml
+    labels: []
+    category: "xml"
