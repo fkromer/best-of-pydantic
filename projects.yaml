@@ -9,6 +9,8 @@ categories:
     title: "GeoJSON"
   - category: "http-client-generators"
     title: "HTTP Client Generators"
+  - category: "http-server-integrations"
+    title: "HTTP Server Integrations"
   - category: "jsonapi"
     title: "JSON:API"
   - category: "model-generators"
@@ -51,6 +53,12 @@ projects:
     pypi_id: pythogen
     labels: []
     category: "http-client-generators"
+
+  - name: aiohttp-pydantic
+    github_id: Maillol/aiohttp-pydantic
+    pypi_id: aiohttp-pydantic
+    labels: []
+    category: "http-server-integrations"
 
   - name: jsonapi-pydantic
     github_id: impocode/jsonapi-pydantic
