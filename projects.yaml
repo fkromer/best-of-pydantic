@@ -70,6 +70,16 @@ projects:
     pypi_id: aiohttp-pydantic
     labels: []
     category: "http-server-integrations"
+  - name: djantic
+    github_id: jordaneremieff/djantic
+    pypi_id: djantic
+    labels: []
+    category: "http-server-integrations"
+  - name: pyngo
+    github_id: yezz123/pyngo
+    pypi_id: pyngo
+    labels: []
+    category: "http-server-integrations"
 
   - name: jsonapi-pydantic
     github_id: impocode/jsonapi-pydantic
