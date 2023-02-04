@@ -13,6 +13,8 @@ categories:
     title: "HTTP Server Integrations"
   - category: "jsonapi"
     title: "JSON:API"
+  - category: "microservice-frameworks"
+    title: "Microservice Frameworks"
   - category: "model-generators"
     title: "Model generators"
   - category: "schemas"
@@ -66,11 +68,17 @@ projects:
     labels: []
     category: "jsonapi"
 
+  - name: fastapi
+    github_id: tiangolo/fastapi
+    pypi_id: fastapi
+    labels: []
+    category: "microservice-frameworks"
+
   - name: datamodel-code-generator
     github_id: koxudaxi/datamodel-code-generator
     pypi_id: datamodel-code-generator
     labels: []
-    category: "jsonapi"
+    category: "model-generators"
 
   - name: pydantic_schemaorg
     github_id: lexiq-legal/pydantic_schemaorg
