@@ -7,6 +7,8 @@ categories:
     title: "Databases"
   - category: "geojson"
     title: "GeoJSON"
+  - category: "http-client-generators"
+    title: "HTTP Client Generators"
   - category: "jsonapi"
     title: "JSON:API"
   - category: "schemas"
@@ -41,6 +43,12 @@ projects:
     pypi_id: pydantic-geojson
     labels: []
     category: "geojson"
+
+  - name: pythogen
+    github_id: artsmolin/pythogen
+    pypi_id: pythogen
+    labels: []
+    category: "http-client-generators"
 
   - name: jsonapi-pydantic
     github_id: impocode/jsonapi-pydantic
