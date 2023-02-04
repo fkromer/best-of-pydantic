@@ -11,6 +11,8 @@ categories:
     title: "HTTP Client Generators"
   - category: "jsonapi"
     title: "JSON:API"
+  - category: "model-generators"
+    title: "Model generators"
   - category: "schemas"
     title: "Schemas"
   - category: "xml"
@@ -53,6 +55,12 @@ projects:
   - name: jsonapi-pydantic
     github_id: impocode/jsonapi-pydantic
     pypi_id: jsonapi-pydantic
+    labels: []
+    category: "jsonapi"
+
+  - name: datamodel-code-generator
+    github_id: koxudaxi/datamodel-code-generator
+    pypi_id: datamodel-code-generator
     labels: []
     category: "jsonapi"
 
