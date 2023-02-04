@@ -80,6 +80,16 @@ projects:
     pypi_id: pyngo
     labels: []
     category: "http-server-integrations"
+  - name: sanic-pydantic
+    github_id: nf1s/sanic-pydantic
+    pypi_id: sanic-pydantic
+    labels: []
+    category: "http-server-integrations"
+  - name: flask-pydantic
+    github_id: bauerji/flask-pydantic
+    pypi_id: flask-pydantic
+    labels: []
+    category: "http-server-integrations"
 
   - name: jsonapi-pydantic
     github_id: impocode/jsonapi-pydantic
