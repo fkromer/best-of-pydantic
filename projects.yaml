@@ -53,6 +53,11 @@ projects:
     pypi_id: pydantic-numpy
     labels: []
     category: "data"
+  - name: pydantic-spark
+    github_id: godatadriven/pydantic-spark
+    pypi_id: pydantic-spark
+    labels: []
+    category: "data"
 
   - name: pandera
     github_id: unionai-oss/pandera
