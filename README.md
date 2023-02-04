@@ -10,17 +10,26 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-0-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-12-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-pydantic/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-pydantic?color=green&label=updated"></a>
 </p>
 
-This curated list contains 0 awesome open-source projects with a total of 0 stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 12 awesome open-source projects with a total of 65K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
+- [Databases](#databases) _2 projects_
+- [GeoJSON](#geojson) _2 projects_
+- [HTTP Client Generators](#http-client-generators) _1 projects_
+- [HTTP Server Integrations](#http-server-integrations) _1 projects_
+- [JSON:API](#jsonapi) _1 projects_
+- [Microservice Frameworks](#microservice-frameworks) _1 projects_
+- [Model generators](#model-generators) _1 projects_
+- [Schemas](#schemas) _1 projects_
+- [XML](#xml) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -38,6 +47,145 @@ This curated list contains 0 awesome open-source projects with a total of 0 star
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
 
+<br>
+
+## Databases
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/tiangolo/sqlmodel">sqlmodel</a></b> (🥇31 ·  ⭐ 9.3K · ➕) - SQL databases in Python, designed for simplicity, compatibility, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/tiangolo/sqlmodel) (👨‍💻 54 · 🔀 400 · 📦 2.8K · 📋 320 - 55% open · ⏱️ 03.02.2023):
+
+	```
+	git clone https://github.com/tiangolo/sqlmodel
+	```
+- [PyPi](https://pypi.org/project/sqlmodel) (📥 310K / month):
+	```
+	pip install sqlmodel
+	```
+</details>
+<details><summary><b><a href="https://github.com/codemation/pydbantic">pydbantic</a></b> (🥉18 ·  ⭐ 190 · ➕) - A single model for shaping, creating, accessing, storing data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/codemation/pydbantic) (👨‍💻 8 · 🔀 10 · 📦 5 · ⏱️ 03.02.2023):
+
+	```
+	git clone https://github.com/codemation/pydbantic
+	```
+- [PyPi](https://pypi.org/project/pydbantic) (📥 1.6K / month):
+	```
+	pip install pydbantic
+	```
+</details>
+<br>
+
+## GeoJSON
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/developmentseed/geojson-pydantic">geojson-pydantic</a></b> (🥇20 ·  ⭐ 120 · ➕) - Pydantic data models for the GeoJSON spec. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/developmentseed/geojson-pydantic) (👨‍💻 19 · 🔀 28 · 📦 150 · 📋 44 - 13% open · ⏱️ 31.01.2023):
+
+	```
+	git clone https://github.com/developmentseed/geojson-pydantic
+	```
+- [PyPi](https://pypi.org/project/geojson-pydantic) (📥 40K / month):
+	```
+	pip install geojson-pydantic
+	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/gb-libs/pydantic-geojson">pydantic-geojson</a></b> (🥉9 ·  ⭐ 5 · ➕) - Pydantic validation for GeoJson. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## HTTP Client Generators
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/artsmolin/pythogen">pythogen</a></b> (🥇13 ·  ⭐ 39 · ➕) - Generator of python HTTP-clients from OpenAPI specification based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## HTTP Server Integrations
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/Maillol/aiohttp-pydantic">aiohttp-pydantic</a></b> (🥇11 ·  ⭐ 49 · ➕) - Aiohttp View that validates request body and query sting.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## JSON:API
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/impocode/jsonapi-pydantic">jsonapi-pydantic</a></b> (🥇7 · ➕) - jsonapi-pydantic provides a suite of Pydantic models matching the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## Microservice Frameworks
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/tiangolo/fastapi">fastapi</a></b> (🥇44 ·  ⭐ 54K · ➕) - FastAPI framework, high performance, easy to learn, fast to code,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/tiangolo/fastapi) (👨‍💻 410 · 🔀 4.4K · 📦 130K · 📋 3.3K - 27% open · ⏱️ 03.02.2023):
+
+	```
+	git clone https://github.com/tiangolo/fastapi
+	```
+- [PyPi](https://pypi.org/project/fastapi) (📥 11M / month):
+	```
+	pip install fastapi
+	```
+</details>
+<br>
+
+## Model generators
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/koxudaxi/datamodel-code-generator">datamodel-code-generator</a></b> (🥇31 ·  ⭐ 1.4K · ➕) - Pydantic model generator for easy conversion of JSON,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/koxudaxi/datamodel-code-generator) (👨‍💻 59 · 🔀 150 · 📦 400 · 📋 260 - 16% open · ⏱️ 03.02.2023):
+
+	```
+	git clone https://github.com/koxudaxi/datamodel-code-generator
+	```
+- [PyPi](https://pypi.org/project/datamodel-code-generator) (📥 190K / month):
+	```
+	pip install datamodel-code-generator
+	```
+</details>
+<br>
+
+## Schemas
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/lexiq-legal/pydantic_schemaorg">pydantic_schemaorg</a></b> (🥇11 ·  ⭐ 30 · 💤) - Schema.org classes in pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## XML
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary>Show 2 hidden projects...</summary>
+
+- <b><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></b> (🥇16 ·  ⭐ 20 · ➕) - pydantic xml extension. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://github.com/tefra/xsdata-pydantic">xsdata-pydantic</a></b> (🥉6 ·  ⭐ 16 · ➕) - Naive XML & JSON Bindings for python pydantic classes!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
 
 ---
 
