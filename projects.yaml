@@ -5,6 +5,8 @@ configuration:
 categories:
   - category: "databases"
     title: "Databases"
+  - category: "data-frames"
+    title: "Data Frames"
   - category: "data-testing"
     title: "Data Testing"
   - category: "geojson"
@@ -40,6 +42,12 @@ projects:
     pypi_id: sqlmodel
     labels: []
     category: "databases"
+
+  - name: patito
+    github_id: kolonialno/patito
+    pypi_id: patito
+    labels: []
+    category: "data-frames"
 
   - name: pandera
     github_id: unionai-oss/pandera
