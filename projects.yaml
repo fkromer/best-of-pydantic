@@ -5,8 +5,8 @@ configuration:
 categories:
   - category: "databases"
     title: "Databases"
-  - category: "data-frames"
-    title: "Data Frames"
+  - category: "data"
+    title: "Data"
   - category: "data-testing"
     title: "Data Testing"
   - category: "geojson"
@@ -47,7 +47,12 @@ projects:
     github_id: kolonialno/patito
     pypi_id: patito
     labels: []
-    category: "data-frames"
+    category: "data"
+  - name: pydantic-numpy
+    github_id: cheind/pydantic-numpy
+    pypi_id: pydantic-numpy
+    labels: []
+    category: "data"
 
   - name: pandera
     github_id: unionai-oss/pandera
