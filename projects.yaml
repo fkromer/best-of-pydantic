@@ -9,6 +9,8 @@ categories:
     title: "Databases"
   - category: "data-structures"
     title: "Data Structures"
+  - category: "data-worflows"
+    title: "Data Workflows"
   - category: "data-testing"
     title: "Data Testing"
   - category: "geojson"
@@ -86,6 +88,12 @@ projects:
     pypi_id: pydantic-spark
     labels: []
     category: "data-structures"
+
+  - name: prefect
+    github_id: PrefectHQ/prefect
+    pypi_id: prefect
+    labels: []
+    category: "data-workflows"
 
   - name: pandera
     github_id: unionai-oss/pandera
