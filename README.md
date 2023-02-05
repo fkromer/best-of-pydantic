@@ -10,19 +10,22 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-20-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-27-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-pydantic/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-pydantic?color=green&label=updated"></a>
 </p>
 
-This curated list contains 20 awesome open-source projects with a total of 68K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 27 awesome open-source projects with a total of 82K stars grouped into 14 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
+- [Amazon Web Services](#amazon-web-services) _5 projects_
 - [Databases](#databases) _2 projects_
-- [Data](#data) _3 projects_
+- [Data Observability](#data-observability) _1 projects_
+- [Data Structures](#data-structures) _3 projects_
+- [Data Workflows](#data-workflows) _0 projects_
 - [Data Testing](#data-testing) _1 projects_
 - [GeoJSON](#geojson) _2 projects_
 - [HTTP Client Generators](#http-client-generators) _1 projects_
@@ -32,6 +35,7 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 - [Model generators](#model-generators) _1 projects_
 - [Schemas](#schemas) _1 projects_
 - [XML](#xml) _2 projects_
+- [Others](#others) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -51,6 +55,20 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 
 <br>
 
+## Amazon Web Services
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary>Show 5 hidden projects...</summary>
+
+- <b><a href="https://github.com/awslabs/aws-lambda-powertools-python">aws-lambda-powertools-python</a></b> (🥇24 ·  ⭐ 1.9K · ➕) - A suite of utilities for AWS Lambda Functions that.. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
+- <b><a href="https://github.com/developmentseed/pydantic-ssm-settings">pydantic-ssm-settings</a></b> (🥈9 ·  ⭐ 12 · ➕) - Replace Pydantics builtin Secret Support with a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nplutt/pydantic-kms-secrets">pydantic-kms-secrets</a></b> (🥉8 ·  ⭐ 2 · 💀) - Utility to decrypt and encrypt secrets using AWS KMS.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/koxudaxi/lambdantic">lambdantic</a></b> (🥉6 ·  ⭐ 15 · 💀) - Pydantic model and lambda event handler for AWS Lambda. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Validus-Risk-Management/aws-appconfig-pydantic">aws-appconfig-pydantic</a></b> (🥉6 ·  ⭐ 4 · ➕) - AWS AppConfig + Pydantic. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+</details>
+<br>
+
 ## Databases
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
@@ -62,7 +80,7 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 	```
 	git clone https://github.com/tiangolo/sqlmodel
 	```
-- [PyPi](https://pypi.org/project/sqlmodel) (📥 310K / month):
+- [PyPi](https://pypi.org/project/sqlmodel) (📥 300K / month):
 	```
 	pip install sqlmodel
 	```
@@ -81,41 +99,65 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 </details>
 <br>
 
-## Data
+## Data Observability
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/kolonialno/patito">patito</a></b> (🥇12 ·  ⭐ 130 · ➕) - A data modelling layer built on top of polars and pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/elementary-data/elementary">elementary</a></b> (🥇22 ·  ⭐ 960 · ➕) - Open-source data observability for analytics engineers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/elementary-data/elementary) (👨‍💻 38 · 🔀 69 · 📦 9 · 📋 210 - 32% open · ⏱️ 02.02.2023):
+
+	```
+	git clone https://github.com/elementary-data/elementary
+	```
+- [PyPi](https://pypi.org/project/elementary) (📥 2 / month):
+	```
+	pip install elementary
+	```
+</details>
+<br>
+
+## Data Structures
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/kolonialno/patito">patito</a></b> (🥇12 ·  ⭐ 130) - A data modelling layer built on top of polars and pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/kolonialno/patito) (📦 1 · 📋 23 - 91% open · ⏱️ 15.12.2022):
 
 	```
 	git clone https://github.com/kolonialno/patito
 	```
-- [PyPi](https://pypi.org/project/patito) (📥 590 / month):
+- [PyPi](https://pypi.org/project/patito) (📥 530 / month):
 	```
 	pip install patito
 	```
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/cheind/pydantic-numpy">pydantic-numpy</a></b> (🥉10 ·  ⭐ 33 · ➕) - Seamlessly integrate numpy arrays into pydantic models. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/godatadriven/pydantic-spark">pydantic-spark</a></b> (🥉10 ·  ⭐ 10 · ➕) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/cheind/pydantic-numpy">pydantic-numpy</a></b> (🥉10 ·  ⭐ 33) - Seamlessly integrate numpy arrays into pydantic models. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/godatadriven/pydantic-spark">pydantic-spark</a></b> (🥉10 ·  ⭐ 10) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
+<br>
+
+## Data Workflows
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
 <br>
 
 ## Data Testing
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/unionai-oss/pandera">pandera</a></b> (🥇31 ·  ⭐ 2K · ➕) - A light-weight, flexible, and expressive statistical data testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/unionai-oss/pandera">pandera</a></b> (🥇31 ·  ⭐ 2K) - A light-weight, flexible, and expressive statistical data testing library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/unionai-oss/pandera) (👨‍💻 79 · 🔀 160 · 📦 500 · 📋 520 - 31% open · ⏱️ 30.01.2023):
 
 	```
 	git clone https://github.com/unionai-oss/pandera
 	```
-- [PyPi](https://pypi.org/project/pandera) (📥 570K / month):
+- [PyPi](https://pypi.org/project/pandera) (📥 560K / month):
 	```
 	pip install pandera
 	```
@@ -133,7 +175,7 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 	```
 	git clone https://github.com/developmentseed/geojson-pydantic
 	```
-- [PyPi](https://pypi.org/project/geojson-pydantic) (📥 40K / month):
+- [PyPi](https://pypi.org/project/geojson-pydantic) (📥 39K / month):
 	```
 	pip install geojson-pydantic
 	```
@@ -150,7 +192,7 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/artsmolin/pythogen">pythogen</a></b> (🥇13 ·  ⭐ 39) - Generator of python HTTP-clients from OpenAPI specification based on httpx.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/artsmolin/pythogen">pythogen</a></b> (🥇13 ·  ⭐ 40) - Generator of python HTTP-clients from OpenAPI specification based on httpx.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -158,33 +200,33 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/bauerji/flask-pydantic">flask-pydantic</a></b> (🥇20 ·  ⭐ 250 · ➕) - flask extension for integration with the awesome pydantic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/bauerji/flask-pydantic) (👨‍💻 12 · 🔀 34 · 📦 300 · 📋 34 - 35% open · ⏱️ 02.01.2023):
-
-	```
-	git clone https://github.com/bauerji/flask-pydantic
-	```
-- [PyPi](https://pypi.org/project/flask-pydantic) (📥 60K / month):
-	```
-	pip install flask-pydantic
-	```
-</details>
-<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥈19 ·  ⭐ 330 · ➕) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥇19 ·  ⭐ 330) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jordaneremieff/djantic) (👨‍💻 4 · 🔀 25 · 📦 41 · 📋 36 - 25% open · ⏱️ 07.01.2023):
 
 	```
 	git clone https://github.com/jordaneremieff/djantic
 	```
-- [PyPi](https://pypi.org/project/djantic) (📥 5.1K / month):
+- [PyPi](https://pypi.org/project/djantic) (📥 4.9K / month):
 	```
 	pip install djantic
 	```
 </details>
+<details><summary><b><a href="https://github.com/bauerji/flask-pydantic">flask-pydantic</a></b> (🥇19 ·  ⭐ 250 · 📉) - flask extension for integration with the awesome pydantic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/bauerji/flask-pydantic) (👨‍💻 12 · 🔀 34 · 📦 300 · 📋 34 - 35% open · ⏱️ 02.01.2023):
+
+	```
+	git clone https://github.com/bauerji/flask-pydantic
+	```
+- [PyPi](https://pypi.org/project/flask-pydantic) (📥 58K / month):
+	```
+	pip install flask-pydantic
+	```
+</details>
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥉14 ·  ⭐ 41 · ➕) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥉14 ·  ⭐ 41) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/nf1s/sanic-pydantic">sanic-pydantic</a></b> (🥉12 ·  ⭐ 6 · 💤) - A library for parsing and validating http requests for sanic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Maillol/aiohttp-pydantic">aiohttp-pydantic</a></b> (🥉11 ·  ⭐ 49) - Aiohttp View that validates request body and query sting.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
@@ -242,7 +284,7 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/lexiq-legal/pydantic_schemaorg">pydantic_schemaorg</a></b> (🥇11 ·  ⭐ 30 · 💤) - Schema.org classes in pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/lexiq-legal/pydantic_schemaorg">pydantic_schemaorg</a></b> (🥇11 ·  ⭐ 31 · 💤) - Schema.org classes in pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -252,8 +294,26 @@ This curated list contains 20 awesome open-source projects with a total of 68K s
 
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></b> (🥇16 ·  ⭐ 20) - pydantic xml extension. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></b> (🥇17 ·  ⭐ 20 · 📈) - pydantic xml extension. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
 - <b><a href="https://github.com/tefra/xsdata-pydantic">xsdata-pydantic</a></b> (🥉6 ·  ⭐ 16) - Naive XML & JSON Bindings for python pydantic classes!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## Others
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/PrefectHQ/prefect">prefect</a></b> (🥇40 ·  ⭐ 11K · ➕) - The easiest way to coordinate your dataflow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/PrefectHQ/prefect) (👨‍💻 120 · 🔀 1.1K · 📦 1.8K · 📋 3.2K - 20% open · ⏱️ 03.02.2023):
+
+	```
+	git clone https://github.com/PrefectHQ/prefect
+	```
+- [PyPi](https://pypi.org/project/prefect) (📥 560K / month):
+	```
+	pip install prefect
+	```
 </details>
 
 ---
