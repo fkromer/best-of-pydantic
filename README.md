@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-33-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-34-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-pydantic/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-pydantic?color=green&label=updated"></a>
 </p>
 
-This curated list contains 33 awesome open-source projects with a total of 84K stars grouped into 17 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 34 awesome open-source projects with a total of 88K stars grouped into 17 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -32,7 +32,7 @@ This curated list contains 33 awesome open-source projects with a total of 84K s
 - [Data Testing](#data-testing) _1 projects_
 - [GeoJSON](#geojson) _2 projects_
 - [HTTP Client Generators](#http-client-generators) _1 projects_
-- [HTTP Server Integrations](#http-server-integrations) _5 projects_
+- [HTTP Server Integrations](#http-server-integrations) _6 projects_
 - [JSON:API](#jsonapi) _1 projects_
 - [Microservice Frameworks](#microservice-frameworks) _1 projects_
 - [Model generators](#model-generators) _1 projects_
@@ -179,7 +179,7 @@ This curated list contains 33 awesome open-source projects with a total of 84K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/nebula-contrib/nebula-carina">nebula-carina</a></b> (🥉7 ·  ⭐ 9 · ➕) - A pydantic based python ORM framework for graph database NebulaGraph 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/nebula-contrib/nebula-carina">nebula-carina</a></b> (🥉7 ·  ⭐ 9) - A pydantic based python ORM framework for graph database NebulaGraph 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/nebula-contrib/nebula-carina) (👨‍💻 2 · 🔀 2 · 📋 6 - 50% open · ⏱️ 12.01.2023):
 
@@ -193,7 +193,7 @@ This curated list contains 33 awesome open-source projects with a total of 84K s
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/ioxiocom/arangodantic">arangodantic</a></b> (🥇9 ·  ⭐ 12 · ➕) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/ioxiocom/arangodantic">arangodantic</a></b> (🥇9 ·  ⭐ 12) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/ontolocy/neontology">neontology</a></b> (🥉4 ·  ⭐ 1 · 🐣) - Easily ingest data into a Neo4j graph database with Python, pandas and Pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
@@ -356,7 +356,19 @@ This curated list contains 33 awesome open-source projects with a total of 84K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥇19 ·  ⭐ 330) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥇32 ·  ⭐ 4K · ➕) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 72 · 🔀 250 · 📦 990 · 📋 440 - 31% open · ⏱️ 26.01.2023):
+
+	```
+	git clone https://github.com/vitalik/django-ninja
+	```
+- [PyPi](https://pypi.org/project/django-ninja) (📥 79K / month):
+	```
+	pip install django-ninja
+	```
+</details>
+<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥈19 ·  ⭐ 330) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jordaneremieff/djantic) (👨‍💻 4 · 🔀 25 · 📦 41 · 📋 36 - 25% open · ⏱️ 07.01.2023):
 
@@ -368,7 +380,7 @@ This curated list contains 33 awesome open-source projects with a total of 84K s
 	pip install djantic
 	```
 </details>
-<details><summary><b><a href="https://github.com/bauerji/flask-pydantic">flask-pydantic</a></b> (🥇19 ·  ⭐ 250) - flask extension for integration with the awesome pydantic package. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bauerji/flask-pydantic">flask-pydantic</a></b> (🥈19 ·  ⭐ 250) - flask extension for integration with the awesome pydantic package. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/bauerji/flask-pydantic) (👨‍💻 12 · 🔀 34 · 📦 300 · 📋 34 - 35% open · ⏱️ 02.01.2023):
 
