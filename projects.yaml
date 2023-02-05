@@ -7,6 +7,8 @@ categories:
     title: "Amazon Web Services"
   - category: "databases"
     title: "Databases"
+  - category: "data-observability"
+    title: "Data Observability"
   - category: "data-structures"
     title: "Data Structures"
   - category: "data-worflows"
@@ -72,6 +74,12 @@ projects:
     pypi_id: sqlmodel
     labels: []
     category: "databases"
+
+  - name: elementary
+    github_id: elementary-data/elementary
+    pypi_id: elementary
+    labels: []
+    category: "data-observability"
 
   - name: patito
     github_id: kolonialno/patito
