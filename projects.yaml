@@ -77,6 +77,11 @@ projects:
     labels: []
     category: "databases-sql"
 
+  - name: beanie
+    github_id: roman-right/beanie
+    pypi_id: beanie
+    labels: []
+    category: "databases-document"
   - name: odmantic
     github_id: art049/odmantic
     pypi_id: odmantic
