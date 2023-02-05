@@ -15,6 +15,8 @@ categories:
     title: "Databases (SQL, ORM)"
   - category: "databases-document"
     title: "Databases (Document, ODM)"
+  - category: "databases-graph"
+    title: "Databases (Graph)"
   - category: "data-generation"
     title: "Data Generation"
   - category: "data-observability"
@@ -95,6 +97,22 @@ projects:
     pypi_id: odmantic
     labels: []
     category: "databases-document"
+
+  - name: arangodantic
+    github_id: ioxiocom/arangodantic
+    pypi_id: arangodantic
+    labels: []
+    category: "databases-graph"
+  - name: nebula-carina
+    github_id: nebula-contrib/nebula-carina
+    pypi_id: nebula-carina
+    labels: []
+    category: "databases-graph"
+  - name: neontology
+    github_id: ontolocy/neontology
+    pypi_id: neontology
+    labels: []
+    category: "databases-graph"
 
   - name: pydantic-factories
     github_id: starlite-api/pydantic-factories
