@@ -25,7 +25,7 @@ This curated list contains 27 awesome open-source projects with a total of 82K s
 - [Databases](#databases) _2 projects_
 - [Data Observability](#data-observability) _1 projects_
 - [Data Structures](#data-structures) _3 projects_
-- [Data Workflows](#data-workflows) _0 projects_
+- [Data Workflows](#data-workflows) _1 projects_
 - [Data Testing](#data-testing) _1 projects_
 - [GeoJSON](#geojson) _2 projects_
 - [HTTP Client Generators](#http-client-generators) _1 projects_
@@ -35,7 +35,6 @@ This curated list contains 27 awesome open-source projects with a total of 82K s
 - [Model generators](#model-generators) _1 projects_
 - [Schemas](#schemas) _1 projects_
 - [XML](#xml) _2 projects_
-- [Others](#others) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -61,11 +60,11 @@ This curated list contains 27 awesome open-source projects with a total of 82K s
 
 <details><summary>Show 5 hidden projects...</summary>
 
-- <b><a href="https://github.com/awslabs/aws-lambda-powertools-python">aws-lambda-powertools-python</a></b> (🥇24 ·  ⭐ 1.9K · ➕) - A suite of utilities for AWS Lambda Functions that.. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
-- <b><a href="https://github.com/developmentseed/pydantic-ssm-settings">pydantic-ssm-settings</a></b> (🥈9 ·  ⭐ 12 · ➕) - Replace Pydantics builtin Secret Support with a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/awslabs/aws-lambda-powertools-python">aws-lambda-powertools-python</a></b> (🥇24 ·  ⭐ 1.9K) - A suite of utilities for AWS Lambda Functions that.. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
+- <b><a href="https://github.com/developmentseed/pydantic-ssm-settings">pydantic-ssm-settings</a></b> (🥈9 ·  ⭐ 12) - Replace Pydantics builtin Secret Support with a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/nplutt/pydantic-kms-secrets">pydantic-kms-secrets</a></b> (🥉8 ·  ⭐ 2 · 💀) - Utility to decrypt and encrypt secrets using AWS KMS.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/koxudaxi/lambdantic">lambdantic</a></b> (🥉6 ·  ⭐ 15 · 💀) - Pydantic model and lambda event handler for AWS Lambda. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/Validus-Risk-Management/aws-appconfig-pydantic">aws-appconfig-pydantic</a></b> (🥉6 ·  ⭐ 4 · ➕) - AWS AppConfig + Pydantic. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Validus-Risk-Management/aws-appconfig-pydantic">aws-appconfig-pydantic</a></b> (🥉6 ·  ⭐ 4) - AWS AppConfig + Pydantic. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -103,7 +102,7 @@ This curated list contains 27 awesome open-source projects with a total of 82K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/elementary-data/elementary">elementary</a></b> (🥇22 ·  ⭐ 960 · ➕) - Open-source data observability for analytics engineers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/elementary-data/elementary">elementary</a></b> (🥇22 ·  ⭐ 960) - Open-source data observability for analytics engineers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/elementary-data/elementary) (👨‍💻 38 · 🔀 69 · 📦 9 · 📋 210 - 32% open · ⏱️ 02.02.2023):
 
@@ -144,6 +143,18 @@ This curated list contains 27 awesome open-source projects with a total of 82K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<details><summary><b><a href="https://github.com/PrefectHQ/prefect">prefect</a></b> (🥇40 ·  ⭐ 11K) - The easiest way to coordinate your dataflow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/PrefectHQ/prefect) (👨‍💻 120 · 🔀 1.1K · 📦 1.8K · 📋 3.2K - 20% open · ⏱️ 03.02.2023):
+
+	```
+	git clone https://github.com/PrefectHQ/prefect
+	```
+- [PyPi](https://pypi.org/project/prefect) (📥 560K / month):
+	```
+	pip install prefect
+	```
+</details>
 <br>
 
 ## Data Testing
@@ -212,7 +223,7 @@ This curated list contains 27 awesome open-source projects with a total of 82K s
 	pip install djantic
 	```
 </details>
-<details><summary><b><a href="https://github.com/bauerji/flask-pydantic">flask-pydantic</a></b> (🥇19 ·  ⭐ 250 · 📉) - flask extension for integration with the awesome pydantic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bauerji/flask-pydantic">flask-pydantic</a></b> (🥇19 ·  ⭐ 250) - flask extension for integration with the awesome pydantic package. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/bauerji/flask-pydantic) (👨‍💻 12 · 🔀 34 · 📦 300 · 📋 34 - 35% open · ⏱️ 02.01.2023):
 
@@ -294,26 +305,8 @@ This curated list contains 27 awesome open-source projects with a total of 82K s
 
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></b> (🥇17 ·  ⭐ 20 · 📈) - pydantic xml extension. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></b> (🥇17 ·  ⭐ 20) - pydantic xml extension. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
 - <b><a href="https://github.com/tefra/xsdata-pydantic">xsdata-pydantic</a></b> (🥉6 ·  ⭐ 16) - Naive XML & JSON Bindings for python pydantic classes!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-</details>
-<br>
-
-## Others
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-<details><summary><b><a href="https://github.com/PrefectHQ/prefect">prefect</a></b> (🥇40 ·  ⭐ 11K · ➕) - The easiest way to coordinate your dataflow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/PrefectHQ/prefect) (👨‍💻 120 · 🔀 1.1K · 📦 1.8K · 📋 3.2K - 20% open · ⏱️ 03.02.2023):
-
-	```
-	git clone https://github.com/PrefectHQ/prefect
-	```
-- [PyPi](https://pypi.org/project/prefect) (📥 560K / month):
-	```
-	pip install prefect
-	```
 </details>
 
 ---
