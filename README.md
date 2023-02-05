@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-29-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-30-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-pydantic/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-pydantic?color=green&label=updated"></a>
 </p>
 
-This curated list contains 29 awesome open-source projects with a total of 84K stars grouped into 15 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 30 awesome open-source projects with a total of 84K stars grouped into 16 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-pydantic/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-pydantic/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-pydantic/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -24,6 +24,7 @@ This curated list contains 29 awesome open-source projects with a total of 84K s
 - [Amazon Web Services](#amazon-web-services) _5 projects_
 - [Databases (SQL, ORM)](#databases-sql-orm) _2 projects_
 - [Databases (Document, ODM)](#databases-document-odm) _2 projects_
+- [Data Generation](#data-generation) _1 projects_
 - [Data Observability](#data-observability) _1 projects_
 - [Data Structures](#data-structures) _3 projects_
 - [Data Workflows](#data-workflows) _1 projects_
@@ -147,7 +148,7 @@ This curated list contains 29 awesome open-source projects with a total of 84K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/roman-right/beanie">beanie</a></b> (🥇25 ·  ⭐ 1.1K · ➕) - Asynchronous Python ODM for MongoDB. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/roman-right/beanie">beanie</a></b> (🥇25 ·  ⭐ 1.1K) - Asynchronous Python ODM for MongoDB. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/roman-right/beanie) (👨‍💻 38 · 🔀 100 · 📦 560 · 📋 210 - 35% open · ⏱️ 30.01.2023):
 
@@ -159,7 +160,7 @@ This curated list contains 29 awesome open-source projects with a total of 84K s
 	pip install beanie
 	```
 </details>
-<details><summary><b><a href="https://github.com/art049/odmantic">odmantic</a></b> (🥉22 ·  ⭐ 750 · ➕) - Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/art049/odmantic">odmantic</a></b> (🥉22 ·  ⭐ 750) - Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/art049/odmantic) (👨‍💻 17 · 🔀 70 · 📋 120 - 32% open · ⏱️ 03.01.2023):
 
@@ -169,6 +170,24 @@ This curated list contains 29 awesome open-source projects with a total of 84K s
 - [PyPi](https://pypi.org/project/odmantic) (📥 21K / month):
 	```
 	pip install odmantic
+	```
+</details>
+<br>
+
+## Data Generation
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/starlite-api/pydantic-factories">pydantic-factories</a></b> (🥇26 ·  ⭐ 420 · ➕) - Simple and powerful mock data generation using pydantic or dataclasses. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/starlite-api/pydantic-factories) (👨‍💻 27 · 🔀 30 · 📦 150 · 📋 70 - 8% open · ⏱️ 15.01.2023):
+
+	```
+	git clone https://github.com/starlite-api/pydantic-factories
+	```
+- [PyPi](https://pypi.org/project/pydantic-factories) (📥 180K / month):
+	```
+	pip install pydantic-factories
 	```
 </details>
 <br>
