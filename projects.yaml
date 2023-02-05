@@ -177,6 +177,11 @@ projects:
     pypi_id: aiohttp-pydantic
     labels: []
     category: "http-server-integrations"
+  - name: django-ninja
+    github_id: vitalik/django-ninja
+    pypi_id: django-ninja
+    labels: []
+    category: "http-server-integrations"
   - name: djantic
     github_id: jordaneremieff/djantic
     pypi_id: djantic
