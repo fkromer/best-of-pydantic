@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "aws"
+    title: "Amazon Web Services"
   - category: "databases"
     title: "Databases"
   - category: "data"
@@ -32,6 +34,32 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+  - name: aws-lambda-powertools-python
+    github_id: awslabs/aws-lambda-powertools-python
+    pypi_id: aws-lambda-powertools-python
+    labels: []
+    category: "aws"
+  - name: aws-appconfig-pydantic
+    github_id: Validus-Risk-Management/aws-appconfig-pydantic
+    pypi_id: aws-appconfig-pydantic
+    labels: []
+    category: "aws"
+  - name: lambdantic
+    github_id: koxudaxi/lambdantic
+    pypi_id: lambdantic
+    labels: []
+    category: "aws"
+  - name: pydantic-kms-secrets
+    github_id: nplutt/pydantic-kms-secrets
+    pypi_id: pydantic-kms-secrets
+    labels: []
+    category: "aws"
+  - name: pydantic-ssm-settings
+    github_id: developmentseed/pydantic-ssm-settings
+    pypi_id: pydantic-ssm-settings
+    labels: []
+    category: "aws"
+
   - name: pydbantic
     github_id: codemation/pydbantic
     pypi_id: pydbantic
