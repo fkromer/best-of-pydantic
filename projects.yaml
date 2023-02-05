@@ -7,8 +7,8 @@ categories:
     title: "Amazon Web Services"
   - category: "databases"
     title: "Databases"
-  - category: "data"
-    title: "Data"
+  - category: "data-structures"
+    title: "Data Structures"
   - category: "data-testing"
     title: "Data Testing"
   - category: "geojson"
@@ -75,17 +75,17 @@ projects:
     github_id: kolonialno/patito
     pypi_id: patito
     labels: []
-    category: "data"
+    category: "data-structures"
   - name: pydantic-numpy
     github_id: cheind/pydantic-numpy
     pypi_id: pydantic-numpy
     labels: []
-    category: "data"
+    category: "data-structures"
   - name: pydantic-spark
     github_id: godatadriven/pydantic-spark
     pypi_id: pydantic-spark
     labels: []
-    category: "data"
+    category: "data-structures"
 
   - name: pandera
     github_id: unionai-oss/pandera
