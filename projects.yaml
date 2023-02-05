@@ -5,8 +5,10 @@ configuration:
 categories:
   - category: "aws"
     title: "Amazon Web Services"
-  - category: "databases"
-    title: "Databases"
+  - category: "databases-sql"
+    title: "Databases (SQL, ORM)"
+  - category: "databases-document"
+    title: "Databases (Document, ODM)"
   - category: "data-observability"
     title: "Data Observability"
   - category: "data-structures"
@@ -68,12 +70,18 @@ projects:
     github_id: codemation/pydbantic
     pypi_id: pydbantic
     labels: []
-    category: "databases"
+    category: "databases-sql"
   - name: sqlmodel
     github_id: tiangolo/sqlmodel
     pypi_id: sqlmodel
     labels: []
-    category: "databases"
+    category: "databases-sql"
+
+  - name: odmantic
+    github_id: art049/odmantic
+    pypi_id: odmantic
+    labels: []
+    category: "databases-document"
 
   - name: elementary
     github_id: elementary-data/elementary
