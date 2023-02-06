@@ -33,6 +33,8 @@ categories:
     title: "HTTP Client Generators"
   - category: "http-server-integrations"
     title: "HTTP Server Integrations"
+  - category: "graphql-server-integrations"
+    title: "GraphQL Server Integrations"
   - category: "jsonapi"
     title: "JSON:API"
   - category: "microservice-frameworks"
@@ -202,6 +204,18 @@ projects:
     pypi_id: flask-pydantic
     labels: []
     category: "http-server-integrations"
+
+  - name: graphene-pydantic
+    github_id: graphql-python/graphene-pydantic
+    pypi_id: graphene-pydantic
+    labels: []
+    category: "graphql-server-integrations"
+  - name: strawberry
+    github_id: strawberry-graphql/strawberry
+    pypi_id: strawberry
+    labels: []
+    category: "graphql-server-integrations"
+    docs_url: https://strawberry.rocks/docs/integrations/pydantic#pydantic-support
 
   - name: jsonapi-pydantic
     github_id: impocode/jsonapi-pydantic
