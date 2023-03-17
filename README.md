@@ -62,19 +62,19 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/developmentseed/pydantic-ssm-settings">pydantic-ssm-settings</a></b> (🥈8 ·  ⭐ 13) - Replace Pydantics builtin Secret Support with a configuration provider that loads parameters from AWS Systems Manager.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/developmentseed/pydantic-ssm-settings">pydantic-ssm-settings</a></b> (🥈9 ·  ⭐ 12 · 📈) - Replace Pydantics builtin Secret Support with a configuration provider that loads parameters from AWS Systems Manager.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/developmentseed/pydantic-ssm-settings) (👨‍💻 4 · 🔀 2 · 📥 9 · ⏱️ 26.09.2022):
+- [GitHub](https://github.com/developmentseed/pydantic-ssm-settings) (👨‍💻 4 · 🔀 2 · 📥 10 · ⏱️ 26.09.2022):
 
 	```
 	git clone https://github.com/developmentseed/pydantic-ssm-settings
 	```
-- [PyPi](https://pypi.org/project/pydantic-ssm-settings) (📥 360 / month):
+- [PyPi](https://pypi.org/project/pydantic-ssm-settings) (📥 450 / month):
 	```
 	pip install pydantic-ssm-settings
 	```
 </details>
-<details><summary><b><a href="https://github.com/nplutt/pydantic-kms-secrets">pydantic-kms-secrets</a></b> (🥈8 ·  ⭐ 2 · 💤) - Utility to decrypt and encrypt secrets using AWS KMS keys that also integrates with pydantic models which allows for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/nplutt/pydantic-kms-secrets">pydantic-kms-secrets</a></b> (🥉8 ·  ⭐ 2 · 💤) - Utility to decrypt and encrypt secrets using AWS KMS keys that also integrates with pydantic models which allows for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/nplutt/pydantic-kms-secrets) (🔀 1 · ⏱️ 16.08.2020):
 
@@ -93,7 +93,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/koxudaxi/lambdantic
 	```
-- [PyPi](https://pypi.org/project/lambdantic) (📥 30 / month):
+- [PyPi](https://pypi.org/project/lambdantic) (📥 29 / month):
 	```
 	pip install lambdantic
 	```
@@ -112,7 +112,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/awslabs/aws-lambda-powertools-python">aws-lambda-powertools-python</a></b> (🥇29 ·  ⭐ 1.9K) - A developer toolkit to implement Serverless best practices and increase developer velocity. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
+- <b><a href="https://github.com/awslabs/aws-lambda-powertools-python">aws-lambda-powertools-python</a></b> (🥇29 ·  ⭐ 2K) - A developer toolkit to implement Serverless best practices and increase developer velocity. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
 </details>
 <br>
 
@@ -120,14 +120,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tiangolo/sqlmodel">sqlmodel</a></b> (🥇32 ·  ⭐ 9.5K) - SQL databases in Python, designed for simplicity, compatibility, and robustness. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tiangolo/sqlmodel">sqlmodel</a></b> (🥇31 ·  ⭐ 9.6K · 📉) - SQL databases in Python, designed for simplicity, compatibility, and robustness. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/tiangolo/sqlmodel) (👨‍💻 54 · 🔀 400 · 📦 5.3K · 📋 320 - 54% open · ⏱️ 21.02.2023):
 
 	```
 	git clone https://github.com/tiangolo/sqlmodel
 	```
-- [PyPi](https://pypi.org/project/sqlmodel) (📥 370K / month):
+- [PyPi](https://pypi.org/project/sqlmodel) (📥 390K / month):
 	```
 	pip install sqlmodel
 	```
@@ -139,7 +139,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/codemation/pydbantic
 	```
-- [PyPi](https://pypi.org/project/pydbantic) (📥 2K / month):
+- [PyPi](https://pypi.org/project/pydbantic) (📥 1.5K / month):
 	```
 	pip install pydbantic
 	```
@@ -150,14 +150,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/roman-right/beanie">beanie</a></b> (🥇27 ·  ⭐ 1.1K · 📈) - Asynchronous Python ODM for MongoDB. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/roman-right/beanie">beanie</a></b> (🥇27 ·  ⭐ 1.1K) - Asynchronous Python ODM for MongoDB. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/roman-right/beanie) (👨‍💻 38 · 🔀 100 · 📦 810 · 📋 210 - 25% open · ⏱️ 09.02.2023):
+- [GitHub](https://github.com/roman-right/beanie) (👨‍💻 38 · 🔀 110 · 📦 840 · 📋 220 - 24% open · ⏱️ 09.02.2023):
 
 	```
 	git clone https://github.com/roman-right/beanie
 	```
-- [PyPi](https://pypi.org/project/beanie) (📥 49K / month):
+- [PyPi](https://pypi.org/project/beanie) (📥 51K / month):
 	```
 	pip install beanie
 	```
@@ -169,7 +169,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/art049/odmantic
 	```
-- [PyPi](https://pypi.org/project/odmantic) (📥 27K / month):
+- [PyPi](https://pypi.org/project/odmantic) (📥 23K / month):
 	```
 	pip install odmantic
 	```
@@ -180,21 +180,21 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/nebula-contrib/nebula-carina">nebula-carina</a></b> (🥇9 ·  ⭐ 12) - A pydantic based python ORM framework for graph database NebulaGraph 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/nebula-contrib/nebula-carina">nebula-carina</a></b> (🥇10 ·  ⭐ 12 · 📈) - A pydantic based python ORM framework for graph database NebulaGraph 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nebula-contrib/nebula-carina) (👨‍💻 2 · 🔀 2 · 📋 8 - 50% open · ⏱️ 17.02.2023):
+- [GitHub](https://github.com/nebula-contrib/nebula-carina) (👨‍💻 2 · 🔀 3 · 📋 8 - 50% open · ⏱️ 17.02.2023):
 
 	```
 	git clone https://github.com/nebula-contrib/nebula-carina
 	```
-- [PyPi](https://pypi.org/project/nebula-carina) (📥 68 / month):
+- [PyPi](https://pypi.org/project/nebula-carina) (📥 75 / month):
 	```
 	pip install nebula-carina
 	```
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/ioxiocom/arangodantic">arangodantic</a></b> (🥇9 ·  ⭐ 12) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/ioxiocom/arangodantic">arangodantic</a></b> (🥉9 ·  ⭐ 12) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/ontolocy/neontology">neontology</a></b> (🥉4 ·  ⭐ 2) - Easily ingest data into a Neo4j graph database with Python, pandas and Pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
@@ -203,14 +203,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/starlite-api/pydantic-factories">pydantic-factories</a></b> (🥇23 ·  ⭐ 440 · 📉) - Simple and powerful mock data generation using pydantic or dataclasses. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/starlite-api/pydantic-factories">pydantic-factories</a></b> (🥇23 ·  ⭐ 450) - Simple and powerful mock data generation using pydantic or dataclasses. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/starlite-api/pydantic-factories) (👨‍💻 28 · 🔀 32 · 📋 73 - 12% open · ⏱️ 06.03.2023):
+- [GitHub](https://github.com/starlite-api/pydantic-factories) (👨‍💻 28 · 🔀 33 · 📋 74 - 12% open · ⏱️ 06.03.2023):
 
 	```
 	git clone https://github.com/starlite-api/pydantic-factories
 	```
-- [PyPi](https://pypi.org/project/pydantic-factories) (📥 170K / month):
+- [PyPi](https://pypi.org/project/pydantic-factories) (📥 160K / month):
 	```
 	pip install pydantic-factories
 	```
@@ -221,14 +221,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/elementary-data/elementary">elementary</a></b> (🥇25 ·  ⭐ 1K) - Open-source data observability for analytics engineers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/elementary-data/elementary">elementary</a></b> (🥇24 ·  ⭐ 1K · 📉) - Open-source data observability for analytics engineers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/elementary-data/elementary) (👨‍💻 39 · 🔀 72 · 📦 14 · 📋 230 - 29% open · ⏱️ 06.03.2023):
+- [GitHub](https://github.com/elementary-data/elementary) (👨‍💻 41 · 🔀 75 · 📦 15 · 📋 240 - 30% open · ⏱️ 16.03.2023):
 
 	```
 	git clone https://github.com/elementary-data/elementary
 	```
-- [PyPi](https://pypi.org/project/elementary):
+- [PyPi](https://pypi.org/project/elementary) (📥 1 / month):
 	```
 	pip install elementary
 	```
@@ -239,14 +239,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/kolonialno/patito">patito</a></b> (🥉10 ·  ⭐ 140) - A data modelling layer built on top of polars and pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/kolonialno/patito">patito</a></b> (🥇11 ·  ⭐ 140 · 📈) - A data modelling layer built on top of polars and pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/kolonialno/patito) (🔀 1 · 📦 1 · 📋 25 - 92% open · ⏱️ 15.12.2022):
 
 	```
 	git clone https://github.com/kolonialno/patito
 	```
-- [PyPi](https://pypi.org/project/patito) (📥 450 / month):
+- [PyPi](https://pypi.org/project/patito) (📥 480 / month):
 	```
 	pip install patito
 	```
@@ -258,14 +258,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/cheind/pydantic-numpy
 	```
-- [PyPi](https://pypi.org/project/pydantic-numpy) (📥 1.5K / month):
+- [PyPi](https://pypi.org/project/pydantic-numpy) (📥 2.1K / month):
 	```
 	pip install pydantic-numpy
 	```
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/godatadriven/pydantic-spark">pydantic-spark</a></b> (🥇11 ·  ⭐ 11 · 📈) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/godatadriven/pydantic-spark">pydantic-spark</a></b> (🥇11 ·  ⭐ 12) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -273,14 +273,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/PrefectHQ/prefect">prefect</a></b> (🥇41 ·  ⭐ 11K) - The easiest way to coordinate your dataflow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/PrefectHQ/prefect">prefect</a></b> (🥇41 ·  ⭐ 11K) - The easiest way to orchestrate and observe your data pipelines. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/PrefectHQ/prefect) (👨‍💻 130 · 🔀 1.1K · 📦 2.3K · 📋 3.4K - 20% open · ⏱️ 09.03.2023):
+- [GitHub](https://github.com/PrefectHQ/prefect) (👨‍💻 130 · 🔀 1.1K · 📦 2.4K · 📋 3.4K - 20% open · ⏱️ 16.03.2023):
 
 	```
 	git clone https://github.com/PrefectHQ/prefect
 	```
-- [PyPi](https://pypi.org/project/prefect) (📥 730K / month):
+- [PyPi](https://pypi.org/project/prefect) (📥 720K / month):
 	```
 	pip install prefect
 	```
@@ -291,14 +291,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/unionai-oss/pandera">pandera</a></b> (🥇30 ·  ⭐ 2K) - A light-weight, flexible, and expressive statistical data testing library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/unionai-oss/pandera">pandera</a></b> (🥇31 ·  ⭐ 2K · 📈) - A light-weight, flexible, and expressive statistical data testing library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/unionai-oss/pandera) (👨‍💻 79 · 🔀 160 · 📦 680 · 📋 540 - 32% open · ⏱️ 20.02.2023):
+- [GitHub](https://github.com/unionai-oss/pandera) (👨‍💻 81 · 🔀 160 · 📦 700 · 📋 540 - 32% open · ⏱️ 16.03.2023):
 
 	```
 	git clone https://github.com/unionai-oss/pandera
 	```
-- [PyPi](https://pypi.org/project/pandera) (📥 690K / month):
+- [PyPi](https://pypi.org/project/pandera) (📥 730K / month):
 	```
 	pip install pandera
 	```
@@ -311,24 +311,24 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <details><summary><b><a href="https://github.com/developmentseed/geojson-pydantic">geojson-pydantic</a></b> (🥇21 ·  ⭐ 130) - Pydantic data models for the GeoJSON spec. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/developmentseed/geojson-pydantic) (👨‍💻 19 · 🔀 28 · 📦 210 · 📋 44 - 6% open · ⏱️ 01.03.2023):
+- [GitHub](https://github.com/developmentseed/geojson-pydantic) (👨‍💻 19 · 🔀 28 · 📦 210 · 📋 45 - 4% open · ⏱️ 14.03.2023):
 
 	```
 	git clone https://github.com/developmentseed/geojson-pydantic
 	```
-- [PyPi](https://pypi.org/project/geojson-pydantic) (📥 58K / month):
+- [PyPi](https://pypi.org/project/geojson-pydantic) (📥 60K / month):
 	```
 	pip install geojson-pydantic
 	```
 </details>
 <details><summary><b><a href="https://github.com/gb-libs/pydantic-geojson">pydantic-geojson</a></b> (🥉9 ·  ⭐ 6) - Pydantic validation for GeoJson. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gb-libs/pydantic-geojson) (👨‍💻 4 · 🔀 2 · 📋 8 - 37% open · ⏱️ 01.01.2023):
+- [GitHub](https://github.com/gb-libs/pydantic-geojson) (👨‍💻 4 · 🔀 2 · 📋 8 - 25% open · ⏱️ 01.01.2023):
 
 	```
 	git clone https://github.com/gb-libs/pydantic-geojson
 	```
-- [PyPi](https://pypi.org/project/pydantic-geojson) (📥 2.9K / month):
+- [PyPi](https://pypi.org/project/pydantic-geojson) (📥 3K / month):
 	```
 	pip install pydantic-geojson
 	```
@@ -339,14 +339,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/artsmolin/pythogen">pythogen</a></b> (🥇14 ·  ⭐ 41 · 📈) - Generator of python HTTP-clients from OpenAPI specification based on httpx and pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/artsmolin/pythogen">pythogen</a></b> (🥇14 ·  ⭐ 41) - Generator of python HTTP-clients from OpenAPI specification based on httpx and pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/artsmolin/pythogen) (👨‍💻 6 · 🔀 1 · 📋 19 - 36% open · ⏱️ 07.03.2023):
+- [GitHub](https://github.com/artsmolin/pythogen) (👨‍💻 6 · 🔀 1 · 📋 19 - 36% open · ⏱️ 10.03.2023):
 
 	```
 	git clone https://github.com/artsmolin/pythogen
 	```
-- [PyPi](https://pypi.org/project/pythogen) (📥 490 / month):
+- [PyPi](https://pypi.org/project/pythogen) (📥 710 / month):
 	```
 	pip install pythogen
 	```
@@ -359,24 +359,24 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥇32 ·  ⭐ 4.1K) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 82 · 🔀 260 · 📦 1.1K · 📋 450 - 30% open · ⏱️ 09.03.2023):
+- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 82 · 🔀 260 · 📦 1.2K · 📋 450 - 30% open · ⏱️ 09.03.2023):
 
 	```
 	git clone https://github.com/vitalik/django-ninja
 	```
-- [PyPi](https://pypi.org/project/django-ninja) (📥 95K / month):
+- [PyPi](https://pypi.org/project/django-ninja) (📥 97K / month):
 	```
 	pip install django-ninja
 	```
 </details>
-<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥈21 ·  ⭐ 340 · 📈) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥈21 ·  ⭐ 340) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jordaneremieff/djantic) (👨‍💻 4 · 🔀 25 · 📦 43 · 📋 36 - 25% open · ⏱️ 13.02.2023):
 
 	```
 	git clone https://github.com/jordaneremieff/djantic
 	```
-- [PyPi](https://pypi.org/project/djantic) (📥 8.6K / month):
+- [PyPi](https://pypi.org/project/djantic) (📥 9.2K / month):
 	```
 	pip install djantic
 	```
@@ -388,19 +388,19 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/bauerji/flask-pydantic
 	```
-- [PyPi](https://pypi.org/project/flask-pydantic) (📥 65K / month):
+- [PyPi](https://pypi.org/project/flask-pydantic) (📥 66K / month):
 	```
 	pip install flask-pydantic
 	```
 </details>
-<details><summary><b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥉14 ·  ⭐ 46) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥉14 ·  ⭐ 47) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/yezz123/pyngo) (👨‍💻 4 · 🔀 4 · 📦 2 · ⏱️ 20.02.2023):
 
 	```
 	git clone https://github.com/yezz123/pyngo
 	```
-- [PyPi](https://pypi.org/project/pyngo) (📥 4.1K / month):
+- [PyPi](https://pypi.org/project/pyngo) (📥 4.2K / month):
 	```
 	pip install pyngo
 	```
@@ -412,7 +412,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/nf1s/sanic-pydantic
 	```
-- [PyPi](https://pypi.org/project/sanic-pydantic) (📥 110 / month):
+- [PyPi](https://pypi.org/project/sanic-pydantic) (📥 97 / month):
 	```
 	pip install sanic-pydantic
 	```
@@ -424,7 +424,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/Maillol/aiohttp-pydantic
 	```
-- [PyPi](https://pypi.org/project/aiohttp-pydantic) (📥 3.6K / month):
+- [PyPi](https://pypi.org/project/aiohttp-pydantic) (📥 3.7K / month):
 	```
 	pip install aiohttp-pydantic
 	```
@@ -437,12 +437,12 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <details><summary><b><a href="https://github.com/strawberry-graphql/strawberry">strawberry</a></b> (🥇32 ·  ⭐ 3K) - A GraphQL library for Python that leverages type annotations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 180 · 🔀 370 · 📥 430 · 📦 1.6K · 📋 680 - 37% open · ⏱️ 09.03.2023):
+- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 180 · 🔀 370 · 📥 440 · 📦 1.6K · 📋 680 - 37% open · ⏱️ 15.03.2023):
 
 	```
 	git clone https://github.com/strawberry-graphql/strawberry
 	```
-- [PyPi](https://pypi.org/project/strawberry) (📥 450 / month):
+- [PyPi](https://pypi.org/project/strawberry) (📥 440 / month):
 	```
 	pip install strawberry
 	```
@@ -454,7 +454,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 	```
 	git clone https://github.com/graphql-python/graphene-pydantic
 	```
-- [PyPi](https://pypi.org/project/graphene-pydantic) (📥 10K / month):
+- [PyPi](https://pypi.org/project/graphene-pydantic) (📥 9.5K / month):
 	```
 	pip install graphene-pydantic
 	```
@@ -467,12 +467,12 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <details><summary><b><a href="https://github.com/impocode/jsonapi-pydantic">jsonapi-pydantic</a></b> (🥇8) - jsonapi-pydantic provides a suite of Pydantic models matching the JSON:API specification. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/impocode/jsonapi-pydantic) (📥 6 · ⏱️ 15.11.2022):
+- [GitHub](https://github.com/impocode/jsonapi-pydantic) (📥 7 · ⏱️ 15.11.2022):
 
 	```
 	git clone https://github.com/impocode/jsonapi-pydantic
 	```
-- [PyPi](https://pypi.org/project/jsonapi-pydantic) (📥 70 / month):
+- [PyPi](https://pypi.org/project/jsonapi-pydantic) (📥 88 / month):
 	```
 	pip install jsonapi-pydantic
 	```
@@ -483,14 +483,14 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tiangolo/fastapi">fastapi</a></b> (🥇44 ·  ⭐ 55K) - FastAPI framework, high performance, easy to learn, fast to code, ready for production. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tiangolo/fastapi">fastapi</a></b> (🥇44 ·  ⭐ 56K) - FastAPI framework, high performance, easy to learn, fast to code, ready for production. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tiangolo/fastapi) (👨‍💻 420 · 🔀 4.5K · 📦 160K · 📋 3.3K - 0% open · ⏱️ 07.03.2023):
+- [GitHub](https://github.com/tiangolo/fastapi) (👨‍💻 420 · 🔀 4.5K · 📦 160K · 📋 3.3K - 0% open · ⏱️ 14.03.2023):
 
 	```
 	git clone https://github.com/tiangolo/fastapi
 	```
-- [PyPi](https://pypi.org/project/fastapi) (📥 15M / month):
+- [PyPi](https://pypi.org/project/fastapi) (📥 16M / month):
 	```
 	pip install fastapi
 	```
@@ -503,7 +503,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <details><summary><b><a href="https://github.com/koxudaxi/datamodel-code-generator">datamodel-code-generator</a></b> (🥇32 ·  ⭐ 1.5K) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/koxudaxi/datamodel-code-generator) (👨‍💻 61 · 🔀 160 · 📦 630 · 📋 270 - 18% open · ⏱️ 07.03.2023):
+- [GitHub](https://github.com/koxudaxi/datamodel-code-generator) (👨‍💻 62 · 🔀 160 · 📦 630 · 📋 270 - 19% open · ⏱️ 15.03.2023):
 
 	```
 	git clone https://github.com/koxudaxi/datamodel-code-generator
@@ -519,7 +519,7 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/lexiq-legal/pydantic_schemaorg">pydantic_schemaorg</a></b> (🥇10 ·  ⭐ 36 · 💤) - Schema.org classes in pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/lexiq-legal/pydantic_schemaorg">pydantic_schemaorg</a></b> (🥇10 ·  ⭐ 37 · 💤) - Schema.org classes in pydantic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/lexiq-legal/pydantic_schemaorg) (🔀 4 · 📋 10 - 70% open · ⏱️ 18.02.2022):
 
@@ -537,26 +537,26 @@ This curated list contains 36 awesome open-source projects with a total of 94K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></b> (🥇18 ·  ⭐ 25) - pydantic xml extension. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+<details><summary><b><a href="https://github.com/dapper91/pydantic-xml">pydantic-xml</a></b> (🥇18 ·  ⭐ 32) - pydantic xml extension. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-- [GitHub](https://github.com/dapper91/pydantic-xml) (👨‍💻 4 · 🔀 5 · 📦 9 · 📋 17 - 23% open · ⏱️ 05.02.2023):
+- [GitHub](https://github.com/dapper91/pydantic-xml) (👨‍💻 4 · 🔀 6 · 📦 9 · 📋 17 - 23% open · ⏱️ 05.02.2023):
 
 	```
 	git clone https://github.com/dapper91/pydantic-xml
 	```
-- [PyPi](https://pypi.org/project/pydantic-xml) (📥 15K / month):
+- [PyPi](https://pypi.org/project/pydantic-xml) (📥 14K / month):
 	```
 	pip install pydantic-xml
 	```
 </details>
-<details><summary><b><a href="https://github.com/tefra/xsdata-pydantic">xsdata-pydantic</a></b> (🥉8 ·  ⭐ 19) - Naive XML & JSON Bindings for python pydantic classes!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tefra/xsdata-pydantic">xsdata-pydantic</a></b> (🥉9 ·  ⭐ 19 · 📈) - Naive XML & JSON Bindings for python pydantic classes!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tefra/xsdata-pydantic) (🔀 1 · 📋 8 - 25% open · ⏱️ 26.02.2023):
+- [GitHub](https://github.com/tefra/xsdata-pydantic) (🔀 1 · 📋 9 - 33% open · ⏱️ 26.02.2023):
 
 	```
 	git clone https://github.com/tefra/xsdata-pydantic
 	```
-- [PyPi](https://pypi.org/project/xsdata-pydantic) (📥 140 / month):
+- [PyPi](https://pypi.org/project/xsdata-pydantic) (📥 160 / month):
 	```
 	pip install xsdata-pydantic
 	```
