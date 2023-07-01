@@ -21,6 +21,8 @@ categories:
     title: "Databases (Document, ODM)"
   - category: "databases-graph"
     title: "Databases (Graph)"
+  - category: "databases-key-value"
+    title: "Databases (key value)"
   - category: "data-generation"
     title: "Data Generation"
   - category: "data-observability"
@@ -166,6 +168,12 @@ projects:
     pypi_id: neontology
     labels: []
     category: "databases-graph"
+
+  - name: redisOM
+    github_id: redis/redis-om-python
+    pypi_id: redis-om-python
+    labels: []
+    category: "databases-key-value"
 
   - name: pydantic-factories
     github_id: starlite-api/pydantic-factories
