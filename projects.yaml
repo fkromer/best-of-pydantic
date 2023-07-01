@@ -103,6 +103,11 @@ projects:
     pypi_id: pydantic-ssm-settings
     labels: []
     category: "aws"
+  - name: pydantic-sqs
+    github_id: andrewthetechie/pydantic-sqs
+    pypi_id: pydantic-sqs
+    labels: []
+    category: "aws"
 
   - name: pydbantic
     github_id: codemation/pydbantic
