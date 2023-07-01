@@ -9,6 +9,8 @@ configuration:
   project_dead_months: 60
 
 categories:
+  - category: "ai-service-deployment-framework"
+    title: "AI Service Deployment Frameworks"
   - category: "aws"
     title: "Amazon Web Services"
   - category: "code-generator"
@@ -60,6 +62,12 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+  - name: jina
+    github_id: jina-ai/jina
+    pypi_id: jina
+    labels: []
+    category: "ai-service-deployment-framework"
+
   - name: aws-lambda-powertools-python
     github_id: awslabs/aws-lambda-powertools-python
     pypi_id: aws-lambda-powertools-python
