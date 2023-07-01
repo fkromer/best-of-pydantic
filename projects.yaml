@@ -104,12 +104,6 @@ projects:
     labels: []
     category: "aws"
 
-  - name: datamodel-code-generator
-    github_id: koxudaxi/datamodel-code-generator
-    pypi_id: datamodel-code-generator
-    labels: []
-    category: "databases-sql"
-
   - name: pydbantic
     github_id: codemation/pydbantic
     pypi_id: pydbantic
@@ -118,6 +112,11 @@ projects:
   - name: sqlmodel
     github_id: tiangolo/sqlmodel
     pypi_id: sqlmodel
+    labels: []
+    category: "databases-sql"
+  - name: ormar
+    github_id: collerek/ormar
+    pypi_id: ormar
     labels: []
     category: "databases-sql"
 
