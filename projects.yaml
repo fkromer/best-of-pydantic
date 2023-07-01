@@ -29,6 +29,8 @@ categories:
     title: "Data Workflows"
   - category: "data-testing"
     title: "Data Testing"
+  - category: "distributed-application"
+    title: "Distributed applications"
   - category: "geojson"
     title: "GeoJSON"
   - category: "http-client-generators"
@@ -164,6 +166,12 @@ projects:
     labels: []
     category: "data-testing"
     docs_url: "https://pandera.readthedocs.io/en/stable/pydantic_integration.html"
+
+  - name: ray
+    github_id: ray-project/ray
+    pypi_id: ray
+    labels: []
+    category: "distributed-application"
 
   - name: geojson-pydantic
     github_id: developmentseed/geojson-pydantic
