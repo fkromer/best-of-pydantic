@@ -57,7 +57,7 @@ categories:
     title: "Schemas"
   - category: "security-testing"
     title: "Security Testing"
-  - category: "transfromers"
+  - category: "transformer"
     title: "Transformers"
   - category: "xml"
     title: "XML"
@@ -317,7 +317,7 @@ projects:
     github_id: koxudaxi/datamodel-code-generator
     pypi_id: datamodel-code-generator
     labels: []
-    category: "model-generators"
+    category: "code-generator"
 
   - name: Robusta
     github_id: robusta-dev/robusta
@@ -352,7 +352,7 @@ projects:
     github_id: huggingface/transformers
     pypi_id: transformers
     labels: []
-    category: "transformers"
+    category: "transformer"
 
   - name: xsdata-pydantic
     github_id: tefra/xsdata-pydantic
