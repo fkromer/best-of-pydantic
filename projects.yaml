@@ -86,7 +86,7 @@ projects:
     github_id: koxudaxi/datamodel-code-generator
     pypi_id: datamodel-code-generator
     labels: []
-    category: "databases-sql
+    category: "databases-sql"
 
   - name: pydbantic
     github_id: codemation/pydbantic
