@@ -49,6 +49,8 @@ categories:
     title: "Microservice Frameworks"
   - category: "model-generators"
     title: "Model generators"
+  - category: "monitoring"
+    title: "Monitoring"
   - category: "nlp"
     title: "Natural Language Processing"
   - category: "schemas"
@@ -314,6 +316,12 @@ projects:
     pypi_id: datamodel-code-generator
     labels: []
     category: "model-generators"
+
+  - name: Robusta
+    github_id: robusta-dev/robusta
+    pypi_id: robusta
+    labels: []
+    category: "monitoring"
 
   - name: SpaCy
     github_id: explosion/spaCy
