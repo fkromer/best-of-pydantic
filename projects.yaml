@@ -55,6 +55,8 @@ categories:
     title: "Natural Language Processing"
   - category: "schemas"
     title: "Schemas"
+  - category: "security-testing"
+    title: "Security Testing"
   - category: "transfromers"
     title: "Transformers"
   - category: "xml"
@@ -339,6 +341,12 @@ projects:
     pypi_id: pydantic_schemaorg
     labels: []
     category: "schemas"
+
+  - name: OneFuzz
+    github_id: microsoft/onefuzz
+    pypi_id: onefuzz
+    labels: []
+    category: "security-testing"
 
   - name: transformers
     github_id: huggingface/transformers
