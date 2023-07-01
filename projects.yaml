@@ -45,6 +45,8 @@ categories:
     title: "Microservice Frameworks"
   - category: "model-generators"
     title: "Model generators"
+  - category: "transfromers"
+    title: "Transformers"
   - category: "schemas"
     title: "Schemas"
   - category: "xml"
@@ -250,6 +252,12 @@ projects:
     pypi_id: datamodel-code-generator
     labels: []
     category: "model-generators"
+
+  - name: transformers
+    github_id: huggingface/transformers
+    pypi_id: transformers
+    labels: []
+    category: "transformers"
 
   - name: pydantic_schemaorg
     github_id: lexiq-legal/pydantic_schemaorg
