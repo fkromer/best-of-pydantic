@@ -119,6 +119,11 @@ projects:
     pypi_id: ormar
     labels: []
     category: "databases-sql"
+  - name: piccolo
+    github_id: piccolo-orm/piccolo
+    pypi_id: piccolo
+    labels: []
+    category: "databases-sql"
 
   - name: beanie
     github_id: roman-right/beanie
