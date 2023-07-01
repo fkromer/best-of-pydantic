@@ -140,6 +140,11 @@ projects:
     pypi_id: beanie
     labels: []
     category: "databases-document"
+  - name: ODMantic
+    github_id: art049/odmantic
+    pypi_id: odmantic
+    labels: []
+    category: "databases-document"
 
   - name: arangodantic
     github_id: ioxiocom/arangodantic
