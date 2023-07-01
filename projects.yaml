@@ -303,6 +303,11 @@ projects:
     pypi_id: fastapi
     labels: []
     category: "microservice-frameworks"
+  - name: litestar
+    github_id: litestar-org/litestar
+    pypi_id: litestar
+    labels: []
+    category: "microservice-frameworks"
 
   - name: datamodel-code-generator
     github_id: koxudaxi/datamodel-code-generator
