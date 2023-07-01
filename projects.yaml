@@ -72,6 +72,11 @@ projects:
     pypi_id: opyrator
     labels: []
     category: "ai-service-deployment-framework"
+  - name: ZenML
+    github_id: zenml-io/zenml
+    pypi_id: zenml
+    labels: []
+    category: "ai-service-deployment-framework"
 
   - name: aws-lambda-powertools-python
     github_id: awslabs/aws-lambda-powertools-python
