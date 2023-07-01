@@ -11,6 +11,8 @@ configuration:
 categories:
   - category: "aws"
     title: "Amazon Web Services"
+  - category: "code-generator"
+    title: "Code generators"
   - category: "databases-sql"
     title: "Databases (SQL, ORM)"
   - category: "databases-document"
@@ -77,6 +79,12 @@ projects:
     pypi_id: pydantic-ssm-settings
     labels: []
     category: "aws"
+
+  - name: datamodel-code-generator
+    github_id: koxudaxi/datamodel-code-generator
+    pypi_id: datamodel-code-generator
+    labels: []
+    category: "databases-sql
 
   - name: pydbantic
     github_id: codemation/pydbantic
