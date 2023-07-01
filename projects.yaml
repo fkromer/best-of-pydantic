@@ -152,6 +152,11 @@ projects:
     pypi_id: odmantic
     labels: []
     category: "databases-document"
+  - name: mongox
+    github_id: aminalaee/mongox
+    pypi_id: mongox
+    labels: []
+    category: "databases-document"
 
   - name: arangodantic
     github_id: ioxiocom/arangodantic
