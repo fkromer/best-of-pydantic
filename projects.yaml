@@ -328,6 +328,11 @@ projects:
     pypi_id: spacy
     labels: []
     category: "nlp"
+  - name: DeepPavlov
+    github_id: deeppavlov/DeepPavlov
+    pypi_id: deeppavlov
+    labels: []
+    category: "nlp"
 
   - name: pydantic_schemaorg
     github_id: lexiq-legal/pydantic_schemaorg
